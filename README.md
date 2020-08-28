@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/pembeweb/proj-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/pembeweb/proj-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/thepembeweb/proj-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/thepembeweb/proj-ml-microservice-kubernetes)
 
 # Operationalize a Machine Learning Microservice API
 
