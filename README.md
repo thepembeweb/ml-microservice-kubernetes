@@ -3,6 +3,7 @@
 > This project demonstrates operationalization of a Python flask app that serves out predictions (inference) about housing prices through API calls. The app uses a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on [the data source site](https://www.kaggle.com/c/boston-housing).
 
 ![](kubernetes_logo.png)
+![](Kaggle_logo.png)
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
