@@ -5,6 +5,7 @@
 ![](kubernetes_logo.png)
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 [![CircleCI](https://circleci.com/gh/pembeweb/proj-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/pembeweb/proj-ml-microservice-kubernetes)
 
 ## Getting Setup
